@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>12</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>1.0.0</Version>
+    <Authors>XiaoDaiLuo</Authors>
+    <Product>右键菜单管理器</Product>
+    <SatelliteResourceLanguages>zh-Hans</SatelliteResourceLanguages>
+    <NeutralLanguage>zh-Hans</NeutralLanguage>
+  </PropertyGroup>
+</Project>

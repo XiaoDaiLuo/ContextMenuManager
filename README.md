@@ -164,3 +164,7 @@ cmmcli --sandbox ui --seed serve --port 5210 --wwwroot src\ContextMenuManager.Ap
 ## 参考
 
 机制上参考了 [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr) 的公开文档（用 `ProgrammaticAccessOnly` 隐藏动词、`-ContextMenuHandlers` 镜像、当前用户 Blocked 列表），没有使用它的代码。
+
+## 许可证
+
+[MIT](LICENSE)
